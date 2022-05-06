@@ -8,7 +8,7 @@ import SearchBar from './components/SearchBar.vue'
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
-  <SearchBar/>
+  <SearchBar />
 </template>
 
 <style>
